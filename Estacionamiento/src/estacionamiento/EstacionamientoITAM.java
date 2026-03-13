@@ -8,7 +8,7 @@ package estacionamiento;
  *
  * @author julia
  */
-public class EstacionamientoITAM {
+public class EstacionamientoITAM{
     private Coche[] baseDatos;
     private int totalRegistrados;
     private ArrayStackLimitada<Coche> estacionamiento;
